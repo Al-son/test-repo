@@ -1,2 +1,1 @@
-Ligne initiale
-Modification depuis branche A
+La modification du fichier
