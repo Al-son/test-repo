@@ -1,4 +1,1 @@
-Ligne initiale
-Modification depuis branche A
-Modification depuis branche A
-/* Kept from the main branch */
+Feature branch content
